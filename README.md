@@ -4,12 +4,26 @@ I'm a passionate Full Stack Developer from Kerala, India.
 
 Currently focused on:
 - 🚀 Building modern web apps using the **MERN stack**
-- 📚 Learning **Next.js** and exploring **Web3** and **Blockchain**
-- 🛠️ Creating scalable SaaS applications
+- ⚙️ Learning **Next.js** and exploring **Web3** and **Blockchain**
+- 🌱 Growing my skills to build scalable and secure SaaS platforms
+
+---
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+---
+
+## 🏆 Achievements:
+- ✅ Completed MERN stack projects (E-commerce app, Movie Review App)
+- ✅ Built full REST APIs with Express and MongoDB
+- ✅ Implemented dynamic frontend UIs using React and Tailwind
+- ✅ Hosted multiple projects on Vercel and Netlify
+- ✅ Learning blockchain development and SaaS architecture
+- ✅ Reached 50+ GitHub contributions in a month
+
+---
 
 ## 🛠️ Tech Stack:
 
@@ -36,4 +50,13 @@ Currently focused on:
 
 ---
 
-> “The best way to predict the future is to create it.” – Peter Drucker
+## 💬 Quotes That Inspire Me:
+
+> “The best way to predict the future is to create it.” – **Peter Drucker**
+
+> “If you are born poor it’s not your mistake, but if you die poor it’s your mistake.” – **Bill Gates**
+
+> “Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.” – **Andy Hertzfeld**
+
+---
+
