@@ -59,4 +59,7 @@ Currently focused on:
 > “Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.” – **Andy Hertzfeld**
 
 ---
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhiram123-code&theme=gruvbox&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
