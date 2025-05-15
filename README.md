@@ -10,7 +10,7 @@ Currently focused on:
 ---
 
 ## 🌐 Connect with me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-phi-35.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Dev_Profile-0A66C2?style=for-the-badge&logo=code&logoColor=white)](https://portfolio-three-phi-35.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhiram-k-rajan-2ba243244/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirammain01@gmail.com)
 
